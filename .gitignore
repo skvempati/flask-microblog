@@ -1,0 +1,14 @@
+# General
+.DS_Store
+
+# Visual Studio Code
+.vscode/settings.json
+
+# Flask
+.flaskenv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv
